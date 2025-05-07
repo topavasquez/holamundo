@@ -1,0 +1,5 @@
+services:
+  api:
+    image: topavasquez/hola-mundo-spring:latest
+    ports:
+      - "8080:8080"
